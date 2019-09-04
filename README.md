@@ -13,35 +13,33 @@
 
 
 ## Table of Contents
-- [ICCV简介](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md##ICCV简介)
+
+- [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology]()
+
+- [多模态元学习，Toward Multimodal Model-Agnostic Meta-Learning]()
+
+- [A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation]()
+
+- [RUBi: Reducing Unimodal Biases in Visual Question Answering ]()
+
+- [理解图神经网络中的注意力与泛化机制，Understanding Attention and Generalization in Graph Neural Networks]()
+
+- [Facebook提出跨语言预训练模型XLM，Cross-lingual Language Model Pretraining]()
+
+- [超图卷积神经网络， HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs]()
+
+- [四元知识图谱嵌入，Quaternion Knowledge Graph Embeddings]()
+
+- [理解医学图像中的迁移学习，Transfusion: Understanding Transfer Learning for Medical Imaging]()
 
 
-- [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology]
-
-- [多模态元学习，Toward Multimodal Model-Agnostic Meta-Learning]
-
-- [A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation]
-
-- [RUBi: Reducing Unimodal Biases in Visual Question Answering ]
-
-- [理解图神经网络中的注意力与泛化机制，Understanding Attention and Generalization in Graph Neural Networks]
-
-- [Facebook提出跨语言预训练模型XLM，Cross-lingual Language Model Pretraining]
-
-- [超图卷积神经网络， HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs]
-
-- [四元知识图谱嵌入，Quaternion Knowledge Graph Embeddings]
-
-- [理解医学图像中的迁移学习，Transfusion: Understanding Transfer Learning for Medical Imaging]
-
-
-
+------------------------
 
 NeurIPS是人工智能和机器学习领域的国际顶级会议，由NIPS基金会负责运营。该会议全称为神经信息处理系统大会(Conference and Workshop on Neural Information Processing Systems，NIPS)，自1987年开始，每年的12月份，来自世界各地的从事AI和ML相关的专家学者和从业人士汇聚一堂。受其名称歧义带来的压力（部分原因是其首字母缩写具有「暧昧的内涵」，带有性别歧视的意义），2018年的会议名称改为NeurIPS 。
 
 NeurIPS 2019将在12月8号加拿大温哥华会议中心举行。
 
- 
+ ***************************************************************************
 
 NeurIPS 2019接受论文推荐
 
