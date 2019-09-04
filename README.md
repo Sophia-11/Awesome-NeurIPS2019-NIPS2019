@@ -1,31 +1,39 @@
-# -Awesome-NeurIPS2019-NIPS
+# Awesome-NeurIPS2019-NIPS
 人工智能和机器学习领域的国际顶级会议NeurIPS论文收集
 
-今天更新到2019年9月4号
-
-目录
-
-今天更新到2019年9月4号
-
-Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology
-
-多模态元学习，Toward Multimodal Model-Agnostic Meta-Learning
-
-A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation
-
-RUBi: Reducing Unimodal Biases in Visual Question Answering 
-
-理解图神经网络中的注意力与泛化机制，Understanding Attention and Generalization in Graph Neural Networks
-
-Facebook提出跨语言预训练模型XLM，Cross-lingual Language Model Pretraining
-
-超图卷积神经网络， HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs
-
-四元知识图谱嵌入，Quaternion Knowledge Graph Embeddings
-
-理解医学图像中的迁移学习，Transfusion: Understanding Transfer Learning for Medical Imaging
-
 人工智能和机器学习领域的国际顶级会议NeurIPS 2019公布了接受论文，有效提交论文6743篇论文， 总共有1428接受论文, 21.1%接受率，包括36篇Oral，164篇Spotlights。
+
+# 本内容现在是NIPS2019,后期会随时更新为
+# Awesome-NIPS2019 陆续更新录用论文
+
+*Last updated: 2019/09/04*
+
+#### Update log
+* 2019/09/04 * - 更新
+
+
+## Table of Contents
+- [ICCV简介](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md##ICCV简介)
+
+
+- [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology]
+
+- [多模态元学习，Toward Multimodal Model-Agnostic Meta-Learning]
+
+- [A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation]
+
+- [RUBi: Reducing Unimodal Biases in Visual Question Answering ]
+
+- [理解图神经网络中的注意力与泛化机制，Understanding Attention and Generalization in Graph Neural Networks]
+
+- [Facebook提出跨语言预训练模型XLM，Cross-lingual Language Model Pretraining]
+
+- [超图卷积神经网络， HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs]
+
+- [四元知识图谱嵌入，Quaternion Knowledge Graph Embeddings]
+
+- [理解医学图像中的迁移学习，Transfusion: Understanding Transfer Learning for Medical Imaging]
+
 
 
 
@@ -42,8 +50,6 @@ NeurIPS 2019接受论文推荐
 Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology
 
 https://arxiv.org/abs/1907.05008
-
- 
 
 Visualizing the PHATE of Neural Networks，
 
