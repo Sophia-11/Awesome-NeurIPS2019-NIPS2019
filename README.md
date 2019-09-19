@@ -6,7 +6,10 @@
 # 本内容现在是NIPS2019,后期会随时更新为
 # Awesome-NIPS2019 陆续更新录用论文
 
-*Last updated: 2019/09/06*
+### 论文下载百度云链接：链接：https://pan.baidu.com/s/100OAXTIOTPoMjbi-dwOcxA 
+提取码：请关注【计算机视觉联盟】微信公众号，回复：NIPS2019
+
+*Last updated: 2019/09/19*
 
 #### Update log
 * 2019/09/04 * - 更新
